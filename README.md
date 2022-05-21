@@ -35,7 +35,7 @@ Registration Number: 212221240013
 ```python
 import cv2
 import matplotlib.pyplot as plt
-image = cv2.imread("jerry.jpeg")
+image = cv2.imread("car1.jpg")
 
 # Read the Image and convert to grayscale
 
