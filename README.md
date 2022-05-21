@@ -30,7 +30,7 @@ Apply thresholding cv2.THRESH_TOZERO on the image.
 Apply thresholding cv2.THRESH_TOZERO_INC on the image.
 </br>
 ## Program
-Developrd by: G Venkata Pavan
+Developrd by: G Venkata Pavan</br>
 Registration Number: 212221240013
 ```python
 import cv2
