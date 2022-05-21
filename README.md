@@ -90,7 +90,7 @@ cv2.waitKey(0)
 
 ### Global Thresholding:
 ![DIPex9bin](https://user-images.githubusercontent.com/94827772/169654563-325e48bb-67d9-4269-b0bc-17d2c2c642da.png)
-![DIPex9toz](https://user-images.githubusercontent.com/94827772/169654565-d7d20e86-6309-4e69-a839-518c8c981cd9.png)
+![DIPex9toz](https://user-images.githubusercontent.com/94827772/169654565-d7d20e86-6309-4e69-a839-518c8c981cd9.png)</br>
 ![DIPex9trunc](https://user-images.githubusercontent.com/94827772/169654566-e0631d90-7064-4cff-aabd-24076eaaa8c2.png)
 
 ### Adaptive Thresholding:
